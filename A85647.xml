@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great vvonder in heaven: shewing the late apparitions and prodigious noyses of war and battels, seen on Edge-Hill neere Keinton in Northampton-shire. Certified under the hands of William Wood Esquire, and iustice for the peace in the said countie, Samuel Marshall preacher of Gods Word in Keinton, and other persons of qualitie.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85647</idno>
+            <idno type="STC">Wing G1787</idno>
+            <idno type="STC">Thomason E85_41</idno>
+            <idno type="STC">ESTC R15365</idno>
+            <idno type="EEBO-CITATION">99859848</idno>
+            <idno type="PROQUEST">99859848</idno>
+            <idno type="VID">155680</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85647)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155680)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 15:E85[41])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great vvonder in heaven: shewing the late apparitions and prodigious noyses of war and battels, seen on Edge-Hill neere Keinton in Northampton-shire. Certified under the hands of William Wood Esquire, and iustice for the peace in the said countie, Samuel Marshall preacher of Gods Word in Keinton, and other persons of qualitie.</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Iackson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Ian. 23. Anno Dom. 1642. [i.e. 1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Marshall, Samuel, --  Preacher of Gods word in Keinton.</term>
+               <term>Wood, William, --  Justice for the peace.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155680:1" rendition="simple:additions"/>
+            <p>A Great VVONDER IN HEAVEN: SHEWING The late Apparitions and prodigious noyſes of War and Battels, ſeen on <hi>Edge-Hill</hi> neere <hi>Keinton</hi> in <hi>Northampton-ſhire.</hi>
+            </p>
+            <p>Certified under the hands of <hi>William Wood</hi> Eſquire, and Iuſtice for the <hi>Peace</hi> in the ſaid Countie, <hi>Samuel Marſhall</hi> Preacher of Gods Word in <hi>Keinton,</hi> and other perſons of qualitie.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for THO. IACKSON, <hi>Ian.</hi> 23. <hi>Anno Dom.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155680:2"/>
+            <pb n="3" facs="tcp:155680:2"/>
+            <head>A great wonder in HEAVEN: Shewing the late <hi>Apparitions</hi> and <hi>Prodigious</hi> noyſes of <hi>War</hi> and <hi>Battails</hi> ſeen on <hi>Edge-Hill</hi> neer <hi>Keynton</hi> in <hi>Northampton-ſhire.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat there hath beene, and ever will be <hi>Laruae ſpectra,</hi> and ſuch like ap<g ref="char:EOLhyphen"/>paritions, namely, Ghoſts and Gob<g ref="char:EOLhyphen"/>lins, have beene the opinion of all the famouſeſt Divines of the Primi<g ref="char:EOLhyphen"/>tive Church, and is (though op<g ref="char:EOLhyphen"/>pugned by ſome) the received Do<g ref="char:EOLhyphen"/>ctrine of divers learned men at this day, their opinion being indeed ra<g ref="char:EOLhyphen"/>tified and confirmed by divers Texts of Scripture, as the Divells poſſeſſing the Swine, and the men poſſeſſed with Divells in the <hi>Acts</hi> of the Apoſtles, that came out of them, and beat the Exorciſts, by which it is evidently con<g ref="char:EOLhyphen"/>firmed, that thoſe legions of erring angels that fell with their great Maſter, <hi>Lucifer,</hi> are not all confined to the lo<g ref="char:EOLhyphen"/>call Hell, but live ſcattered here and there, diſperſed in the empty regions of the ayre as thicke as motes in the Sunne, and thoſe are thoſe things which our too ſuperſtitious an<g ref="char:EOLhyphen"/>ceſtors called Elves and Goblins, Furies, and the like, ſuch as were thoſe who appeared to <hi>Machbeth</hi> the after King
+<pb n="4" facs="tcp:155680:3"/>of <hi>Scotland,</hi> and foretold him of his fortunes both in life and death. It is evident, beſides, that the divell can con<g ref="char:EOLhyphen"/>denſe the ayre into any ſhape he pleaſeth; as hee is a ſubtill ſpirit, thin and open, and rancke himſelfe into any forme or likeneſſe, as Saint <hi>Augustin, Prudentius, Hieronimus Cyril,</hi> Saint <hi>Baſil</hi> the Great; and none better then our late Soveraigne King <hi>Iames</hi> of ever-living menory, in his Trea<g ref="char:EOLhyphen"/>tiſe <hi>de Demonologia,</hi> hath ſufficiently proved: but to omit circumſtance and preamble, no man that thinkes hee hath a ſoule, but will verily and confidently believe that there are divels, and ſo conſequently ſuch divels as appeare either in premonſtrance of Gods Judgements, or as fatall Em<g ref="char:EOLhyphen"/>baſſadours to declare the meſſage of mortality and deſtructi<g ref="char:EOLhyphen"/>on to offending Nations; and hath in <hi>Germany</hi> and other places afflicted afterwards with the horror of a civill and forraigne warres notoriouſly manifeſted.</p>
+            <p>But to our purpoſe <hi>Edge-Hill</hi> in the very confines of <hi>Warwickeſhire,</hi> neere unto <hi>Keynton</hi> in <hi>Nrrthamptonſhire,</hi> a place, as appeares by the ſequele, deſtined for ci<g ref="char:EOLhyphen"/>vill warres and battells; as where King <hi>Iohn</hi> fought a battell with his Barons, and who in the defence of the Kingdomes lawes and libertie was fought a bloody con<g ref="char:EOLhyphen"/>flict betweene his Majeſties and the Parliaments forces, who under the conduct of his Excellence the Earle of <hi>Eſſex,</hi> obtained there a glorious victory over the Cava<g ref="char:EOLhyphen"/>liers at this <hi>Edge-Hill,</hi> in the very place where the bat<g ref="char:EOLhyphen"/>tell was ſtrucken, have ſince, and doth appeare, ſtrange and portentuous <hi>Apparitions</hi> of two jarring and contra<g ref="char:EOLhyphen"/>ry Armies, as I ſhall in order deliver, it being certified by the men of moſt credit in thoſe parts, as <hi>William Wood</hi> Eſquire, <hi>Samuel Marſhall</hi> Miniſter, and others, on Saturday, which was in Chriſtmas time, as if the Savi<g ref="char:EOLhyphen"/>our of the world, who died to redeeme mankinde, had beene angry that ſo much Chriſtian blood was there ſpilt, and ſo had permitted theſe infernall Armies to appeare,
+<pb n="5" facs="tcp:155680:3"/>where the corporeall Armies had ſhed ſo much blood; between twelve and one of the clock in the morning was heard by ſome Sheepherds, and other countrey-men and travellers, firſt the found of Drums a far off, and the noyſe of Soulders, as it were, giving out their laſt groanes; at which they were much amazed, and amazed ſtood ſtill, till it ſeemed by the neerneſſe of the noyſe to approach them, at which too much affrighted, they ſought to with<g ref="char:EOLhyphen"/>draw as faſt as poſſibly they could, but then on the ſud<g ref="char:EOLhyphen"/>den, whileſt they were in theſe cogitations, appeared in the ayre the ſame incorporeall ſouldiers that made thoſe clamours, and immediately with Enſignes diſplayed Drums beating, Muſquets going off, Cannons diſcharged, Horſes neyghing, which alſo to theſe men were viſible, the ala<g ref="char:EOLhyphen"/>rum or entrance to this game of death was ſtrucke up, one Army which gave the firſt charge, having the Kings colours, and the other the Parliaments in their head or front of the battells, and ſo pell mell to it they went; the battell that appeared to the Kings forces ſeeming at firſt to have the beſt, but afterwards to be put into ap<g ref="char:EOLhyphen"/>parent rout; but till two or three in the morning in e<g ref="char:EOLhyphen"/>quall ſcale continued this dreadfull fight, the clattering of Armes, noyſe of Cannons, cries of ſouldiers ſo ama<g ref="char:EOLhyphen"/>zing and terrifying the poore men, that they could not believe they were mortall, or give credit to their eares and eyes, runne away they durſt not, for feare of being made a prey to theſe infernall ſouldiers, and ſo they with much feare and affright, ſtayed to behold the ſucceſſe of the buſineſſe, which at laſt ſuited to this effect: after ſome three houres fight, that Army which carryed the King colours withdrew, or rather appeared to flie; the other remaining, as it were, Maſters of the field, ſtayed a good ſpace triumphing, and expreſſing all the ſignes of joy and conqueſt, and then with all their Drummes, Trum<g ref="char:EOLhyphen"/>pets, Ordnance and Souldiers vaniſhed, the poore men
+<pb n="6" facs="tcp:155680:4"/>glad they were gone, that had ſo long ſtaid them there a<g ref="char:EOLhyphen"/>gainſt their wils, made with all haſte to Keinton, and there knocking up Mr. <hi>Wood,</hi> a Juſtice of Peace, who called up his neighbour Mr. <hi>Marſhall</hi> the Miniſter, they gave them an account of the whole paſſage, and averred it upon their oaths to be true. At which affirmation of theirs, being much a<g ref="char:EOLhyphen"/>mazed, they ſhould hardly have given credit to it, but would have conjectured the men to have been either mad or drunk, had they not knowne ſome of them to have been of appro<g ref="char:EOLhyphen"/>ved integritie; and ſo ſuſpending their judgements till the next night about the ſame houre, they with the ſame men, and all the ſubſtantiall Inhabitants of that and the neighbou<g ref="char:EOLhyphen"/>ring pariſhes, drew thither; where about halfe an houre after their arrivall on Sunday, being Chriſtmas night, appea<g ref="char:EOLhyphen"/>red in the ſame tumultuous warlike manner, the ſame two adverſe Armies, fighting with as much ſpite and ſpleen as formerly: and ſo departed the Gentlemen and all the ſpe<g ref="char:EOLhyphen"/>ctatours, much terrified with theſe viſions of horrour, with<g ref="char:EOLhyphen"/>drew themſelves to their houſes, beſeeching God to defend them from thoſe helliſh and prodigious enemies. The next night they appeared not, nor all that week, ſo that the dwel<g ref="char:EOLhyphen"/>lers thereabout were in good hope they had been for ever departed; but on the enſuing Saturday night, in the ſame place, and at the ſame houre, they were againe ſeene, with far greater tumult fighting in the manner afore mentioned for foure houres, or verie neere, and then vaniſhed, appea<g ref="char:EOLhyphen"/>ring againe on Sunday night, and performing the ſame acti<g ref="char:EOLhyphen"/>ons of hoſtilitie and bloud-ſhed; ſo that both Mr, <hi>Wood</hi> and others, whoſe faith it ſhould ſeeme was not ſtrong enough to carrie them out againſt theſe deluſions, forſook their ha<g ref="char:EOLhyphen"/>bitations thereabout, and retired themſelves to other more ſecure dwellings; but Mr, <hi>Marſhall</hi> ſtayed, and ſome o<g ref="char:EOLhyphen"/>ther, and ſo ſucceſſively the next Saturday and Sunday the ſame tumults and prodigious ſights and actions were put in the ſtate and condition they were formerly. The rumour
+<pb n="7" facs="tcp:155680:4"/>whereof comming to his Majeſtie at Oxford, he immediate<g ref="char:EOLhyphen"/>ly diſpatched thither Colonell <hi>Lewis Kirke,</hi> Captaine <hi>Dud<g ref="char:EOLhyphen"/>ley,</hi> Captaine <hi>Wainman,</hi> and three other Gentlemen of cre<g ref="char:EOLhyphen"/>dit, to take the full view and notice of the ſaid buſineſſe, who firſt hearing the true atreſtation and relation of Mr. <hi>Mar<g ref="char:EOLhyphen"/>ſhall</hi> and others, ſtaid there till Saturday night following, wherein they heard and ſaw the fore-mentioned prodigies, and ſo on Sunday diſtinctly knowing divers of the appariti<g ref="char:EOLhyphen"/>ons, or incorporeall ſubſtances by their faces, as that of Sir <hi>Edmund Varney,</hi> and others that were there ſlaine; of which upon oath they made teſtimony to his Majeſtie. What this does portend, God only knoweth, and time perhaps will diſcover; but doubtleſly it is a ſigne of his wrath againſt this Land, for theſe civill wars, which He in his good time finiſh, and ſend a ſudden peace between his Majeſtie and Parliament.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
